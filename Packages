@@ -1,0 +1,30 @@
+Package: 
+Version: 
+Architecture: iphoneos-arm
+Maintainer: 	
+Depends:  
+Conflicts: 
+Filename: 	
+Size: 	
+MD5sum: 	
+SHA1: 	
+SHA256: 	
+Section: Tweaks
+Depiction: 
+Name: 
+
+Package: com.yourepo.soda-ldz.gushixstatusbar
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: 	StatusBar（状态栏）
+Depends:  mobilesubstrate, preferenceloader
+Conflicts: 
+Filename: 	
+Size: 	
+MD5sum: 	
+SHA1: 	
+SHA256: 	
+Section: Tweaks
+Depiction: 
+Name: 
+
